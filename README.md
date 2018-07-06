@@ -5,4 +5,4 @@
 Зависимости:
 pillow
 piexif
-shutil 
+shutil
