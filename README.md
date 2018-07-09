@@ -4,8 +4,4 @@
 
 Зависимости:
 
-pillow
-
-piexif
-
-shutil
+sudo -H pip3 install pillow, piexif,shutil
